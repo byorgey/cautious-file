@@ -12,7 +12,7 @@ maintainer:          Robin Green <greenrd@greenrd.org>
 build-type:	     Simple
 stability:	     experimental
 bug-reports:	     mailto:greenrd@greenrd.org
-tested-with:	     GHC == 7.0.2
+tested-with:	     GHC ==7.10.3 || ==8.0.2 || ==8.2.2 || ==8.4.3 || ==8.6.5 || ==8.8.1
 extra-source-files:      Test.hs
 
 source-repository head
